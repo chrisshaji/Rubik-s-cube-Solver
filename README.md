@@ -25,7 +25,8 @@ Print Settings:
   - 10% infill on base plate with 3 walls
   - 15% infill and 2 walls on other parts
   - Tree supports for the base plate
-![IMG_0205](https://github.com/user-attachments/assets/39f6f25a-be3d-4f7f-8062-5a38d182007d)
+<img src="https://github.com/user-attachments/assets/39f6f25a-be3d-4f7f-8062-5a38d182007d" width="100" height="100">
+
 
 
 ## Overview and Background

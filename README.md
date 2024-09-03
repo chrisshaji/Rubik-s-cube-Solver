@@ -19,17 +19,29 @@ screws and nuts on the side of the arch. For the base plate, similar design chan
 
 ## Fabrication
 The enclosure, connectors and motor holders were fully 3d printed on my Elegoo Neptune 3-pro printer using PLA. The trickiest part to print by far was the base plate since it took up whole build 
-volume of my printer. The first time I printed it, I ended up with a mess since I forgot to properly configure the bed adhesion setting in Cura. 
+volume of my printer. The first time I printed it, I ended up with a mess since I forgot to properly configure the bed adhesion setting in Cura.
 Print Settings:
   - Nozzle temp : 210° C, Heatbed : 50° C
   - 10% infill on base plate with 3 walls
   - 15% infill and 2 walls on other parts
   - Tree supports for the base plate
-<img src="https://github.com/user-attachments/assets/39f6f25a-be3d-4f7f-8062-5a38d182007d" width="100" height="100">
+
+<table align="center">
+  <tr>
+    <td style="padding-right: 20px;">
+      <img src="https://github.com/user-attachments/assets/a1777398-3f4c-4e38-b37d-64ee500cf129" width="300" height="400" alt="Caption for Image 1">
+      <br>
+      <span>Base Plate Print ~24 hours <span>
+    </td>
+    <td style="padding-left: 20px;">
+      <img src="https://github.com/user-attachments/assets/d2b14d99-aa1b-4cbd-bc4d-afd8e5e15eba" width="300" height="400" alt="Caption for Image 2">
+      <br>
+      <span>Failed due to poor adhesion :(</span>
+    </td>
+  </tr>
+</table>
 
 
-
-## Overview and Background
 
 
 

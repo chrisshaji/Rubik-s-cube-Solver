@@ -19,7 +19,7 @@ screws and nuts on the side of the arch. For the base plate, similar design chan
 
 ## Fabrication
 The enclosure, connectors and motor holders were fully 3d printed on my Elegoo Neptune 3-pro printer using PLA and sliced using Cura. The trickiest part to print by far was the base plate since it took up whole build volume of my printer. The first time I printed it, I ended up with a mess since I forgot to properly configure the bed adhesion setting in Cura.
-Print Settings:
+### Print Settings:
   - Nozzle temp : 210° C, Heatbed : 50° C
   - 10% infill on base plate with 3 walls
   - 15% infill and 2 walls on other parts

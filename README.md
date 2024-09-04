@@ -16,6 +16,27 @@ One goal I had with the base plate and the arch was to keep the filament usage d
 For the arch, I had initially envisioned to use neodynium magnets for easy removal of the cube. However, this proved not to be strong enough upon further testing, therefore I went with the good old 
 screws and nuts on the side of the arch. For the base plate, similar design changes were made and each of the four columns, along with the bottom motor can be screwed directly onto the base plate.
 
+<table align="center">
+  <tr>
+    <td style="padding-right: 20px;">
+      <img src="https://github.com/user-attachments/assets/39f6f25a-be3d-4f7f-8062-5a38d182007d" width="300" height="300" alt="Caption for Image 1">
+      <br>
+      <span>Caption for Image 1</span>
+    </td>
+    <td style="padding-right: 20px;">
+      <img src="https://github.com/user-attachments/assets/39f6f25a-be3d-4f7f-8062-5a38d182007d" width="300" height="300" alt="Caption for Image 2">
+      <br>
+      <span>Caption for Image 2</span>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/33d7a88a-f11e-475a-b96d-aa0618fbc637" width="300" height="300" alt="Caption for Image 3">
+      <br>
+      <span>Caption for Image 3</span>
+    </td>
+  </tr>
+</table>
+
+![Screenshot 2024-09-03 160943](https://github.com/user-attachments/assets/33d7a88a-f11e-475a-b96d-aa0618fbc637)
 
 ## Fabrication
 The enclosure, connectors and motor holders were fully 3d printed on my Elegoo Neptune 3-pro printer using PLA and sliced using Cura. The trickiest part to print by far was the base plate since it took up whole build volume of my printer. The first time I printed it, I ended up with a mess since I forgot to properly configure the bed adhesion setting in Cura.

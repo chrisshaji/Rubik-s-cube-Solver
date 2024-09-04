@@ -19,9 +19,9 @@ screws and nuts on the side of the arch. For the base plate, similar design chan
 <table align="center">
   <tr>
     <td style="padding-right: 30px;">
-      <img src="https://github.com/user-attachments/assets/39f6f25a-be3d-4f7f-8062-5a38d182007d" width="300" height="325" alt="Caption for Image 1">
+      <img src="https://github.com/user-attachments/assets/af84f4df-abf0-4c5d-814f-ecdae7307c24" width="300" height="325" alt="Breadboarding the motors">
       <br>
-      <span>Caption for Image 1</span>
+      <span>Breadboarding the motors</span>
     </td>
     <td style="padding-right: 30px;">
       <img src="https://github.com/user-attachments/assets/587ea7bb-412a-4587-a774-4b750834dfb9" width="300" height="325" alt="Motor screwed into the arch">
@@ -35,7 +35,6 @@ screws and nuts on the side of the arch. For the base plate, similar design chan
     </td>
   </tr>
 </table>
-
 
 
 ## Fabrication

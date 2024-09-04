@@ -1,6 +1,6 @@
 # Rubik's Cube Solver
 
-Fully 3-d printed rubik's cube solver that can solve a 3x3 rubik's cube in under 5 seconds.
+Fully 3-D printed rubik's cube solver that can solve a 3x3 rubik's cube in under 5 seconds.
 
 ## Design Rationale
 

@@ -19,17 +19,17 @@ screws and nuts on the side of the arch. For the base plate, similar design chan
 <table align="center">
   <tr>
     <td style="padding-right: 30px;">
-      <img src="https://github.com/user-attachments/assets/af84f4df-abf0-4c5d-814f-ecdae7307c24" width="300" height="300" alt="Breadboarding the motors">
+      <img src="https://github.com/user-attachments/assets/af84f4df-abf0-4c5d-814f-ecdae7307c24" width="275" height="300" alt="Breadboarding the motors">
       <br>
       <span>Breadboarding the motors</span>
     </td>
     <td style="padding-right: 30px;">
-      <img src="https://github.com/user-attachments/assets/587ea7bb-412a-4587-a774-4b750834dfb9" width="300" height="300" alt="Motor screwed into the arch">
+      <img src="https://github.com/user-attachments/assets/587ea7bb-412a-4587-a774-4b750834dfb9" width="275" height="280" alt="Motor screwed into the arch">
       <br>
       <span>Motor screwed into the arch</span>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/33d7a88a-f11e-475a-b96d-aa0618fbc637" width="300" height="300" alt="Assembly rendered in SolidWorks">
+      <img src="https://github.com/user-attachments/assets/33d7a88a-f11e-475a-b96d-aa0618fbc637" width="275" height="280" alt="Assembly rendered in SolidWorks">
       <br>
       <span>Assembly rendered in SolidWorks</span>
     </td>
